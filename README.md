@@ -1,3 +1,3 @@
 # hello
-Hi! This is the first tiral!
+Hi! This is the first trial! 
 
